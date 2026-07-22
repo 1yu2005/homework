@@ -12,5 +12,4 @@ def func1(num):
 
 if __name__ == '__main__':
     num = 12345678
-    print(func(num))
     print(func1(num))
